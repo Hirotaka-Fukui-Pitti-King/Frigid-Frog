@@ -6,7 +6,7 @@ website:
   navbar:
     right:
       - text: Posts
-        href: Site\posts
+        href: posts/
       - text: About
         href: about.qmd
       - icon: github
