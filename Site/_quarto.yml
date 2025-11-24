@@ -9,6 +9,8 @@ website:
         href: posts/
       - text: About
         href: about.qmd
+      - text: Groups
+        href: groups.qmd
       - icon: github
         href: https://github.com/Hirotaka-Fukui-Pitti-King/Frigid-Frog
   page-footer:
