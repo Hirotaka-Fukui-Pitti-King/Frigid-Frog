@@ -2,7 +2,7 @@
 title: "D'où venons-nous?"
 description: "Our starting point"
 date: 2025-11-24
-categories: ["stand"]
+categories: ["intro"]
 ---
 
 Documents obtained by Bloomberg reveal that U.S.-based OpenAI has hired over 100 former investment bankers to teach artificial intelligence (AI) how to build financial models. The move aims to replace the enormous amount of work hours traditionally handled by junior bankers across the industry.“ ”At the world's largest sovereign wealth fund (SWF), the Norwegian Government Pension Fund Global, artificial intelligence (AI) will play a crucial role in protecting its $2 trillion (approximately ¥304 trillion) in assets under management from climate change risks." After seeing these two Bloomberg news items, I formulated the hypothesis that “the strategic complementarity of investors could be strengthened by innovation, while the length of investment decision-making lags might weaken strategic complementarity and potentially enhance stability.” Could this be analyzed theoretically?

@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Frigid-Frog: Technology and Finance"
@@ -8,23 +9,23 @@ website:
       - text: Posts
         href: posts/
       - text: About
-        href: about.html
+        href: about.qmd
       - icon: github
         href: https://github.com/Hirotaka-Fukui-Pitti-King/Frigid-Frog
   page-footer:
-    center: "© 2025 Hirotaka Fukui"
+    center: "© 2025 Frigid-Frog Research Group"
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: vapor
+    theme: 
+      - journal 
     toc: true
     number-sections: true
     code-copy: true
     code-tools:
       source: true
       toggle: true
+    smooth-scroll: true
 
 
 
