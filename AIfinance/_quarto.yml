@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Frigid-Frog: Technology and Finance"
@@ -25,7 +24,6 @@ format:
     code-tools:
       source: true
       toggle: true
-    smooth-scroll: true
 
 
 
