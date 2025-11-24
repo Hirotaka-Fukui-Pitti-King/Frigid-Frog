@@ -1,0 +1,29 @@
+---
+title: "Literature Review: The Effect of AI on Financial Market"
+description: "Tests"
+date: 2025-11-24
+categories: ["literature"]
+---
+
+# The impact of artificial intelligence on financial markets
+
+[Danielsson, J (2025), “Artificial intelligence and stability”, VoxEU.org, 6 February.](https://cepr.org/voxeu/columns/artificial-intelligence-and-stability)
+
+[Danielsson, J., Macrae, R., & Uthemann, A. (2022). Artificial intelligence and systemic risk. Journal of Banking & Finance, 140, 106290.](https://doi.org/10.1016/j.jbankfin.2021.106290)
+
+[Danielsson, J, and A Uthemann (2024), “AI financial crises”, VoxEU.org, 26 July.](https://cepr.org/voxeu/columns/ai-financial-crises)
+
+[Danielsson, J., & Uthemann, A. (2025). Artificial intelligence and financial crises. Journal of Financial Stability, 101453.](https://www.sciencedirect.com/science/article/pii/S1572308925000828)
+
+
+# The impact of artificial intelligence on markets
+
+[Calvano, E, V Denicolo, G Calzolari, and S Pastorello (2019), “Artificial intelligence, algorithmic pricing, and collusion”, VoxEU.org, 3 February.](https://cepr.org/voxeu/columns/artificial-intelligence-algorithmic-pricing-and-collusion)
+
+[Calvano, Emilio, Giacomo Calzolari, Vincenzo Denicolò, and Sergio Pastorello. 2020. "Artificial Intelligence, Algorithmic Pricing, and Collusion." American Economic Review 110 (10): 3267–97.](https://www.jstor.org/stable/26966472)
+
+[Calvano, Emilio, Calzolari, Giacomo, Denicolo', Vincenzo and Pastorello, Sergio, (2019), Algorithmic Pricing What Implications for Competition Policy?, Review of Industrial Organization, 55, issue 1, p. 155-171](https://link.springer.com/article/10.1007/s11151-019-09689-3)
+
+[Ulrich Schwalbe, ALGORITHMS, MACHINE LEARNING, AND COLLUSION, Journal of Competition Law & Economics, Volume 14, Issue 4, 2018, Pages 568–607](https://doi.org/10.1093/joclec/nhz004)
+
+
