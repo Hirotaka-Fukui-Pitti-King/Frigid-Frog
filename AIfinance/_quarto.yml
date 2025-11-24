@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Frigid-Frog: Technology and Finance"
+  navbar:
+    right:
+      - text: Posts
+        href: posts/
+      - text: About
+        href: about.html
+      - icon: github
+        href: https://github.com/Hirotaka-Fukui-Pitti-King/Frigid-Frog
+  page-footer:
+    center: "© 2025 Hirotaka Fukui"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: vapor
+    toc: true
+    number-sections: true
+    code-copy: true
+    code-tools:
+      source: true
+      toggle: true
+
+
+
