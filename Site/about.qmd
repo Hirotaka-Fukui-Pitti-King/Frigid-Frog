@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+# D'où venons-nous?
+
+Documents obtained by Bloomberg reveal that U.S.-based OpenAI has hired over 100 former investment bankers to teach artificial intelligence (AI) how to build financial models. The move aims to replace the enormous amount of work hours traditionally handled by junior bankers across the industry.“ ”At the world's largest sovereign wealth fund (SWF), the Norwegian Government Pension Fund Global, artificial intelligence (AI) will play a crucial role in protecting its $2 trillion (approximately ¥304 trillion) in assets under management from climate change risks." After seeing these two Bloomberg news items, I formulated the hypothesis that “the strategic complementarity of investors could be strengthened by innovation, while the length of investment decision-making lags might weaken strategic complementarity and potentially enhance stability.” Could this be analyzed theoretically?
+
+I was thinking about this: With the completion of modern portfolio theory in the 2000s (or maybe the 1990s?), everyone started using the same framework for risk assessment and such, right? The hypothesis that “When AI-based analytical infrastructure becomes standardized, investors' ‘optimal actions’ become interdependent, strengthening strategic complementarity?” is essentially equivalent to the hypothesis that when modern portfolio theory was finalized, everyone started analyzing using the same framework (with computers), and that led to “investors' ‘optimal actions’ becoming interdependent, strengthening strategic complementarity?” And couldn't the latter be verified with data?
