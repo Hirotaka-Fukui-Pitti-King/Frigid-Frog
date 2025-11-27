@@ -26,4 +26,18 @@ categories: ["literature"]
 
 [Ulrich Schwalbe, ALGORITHMS, MACHINE LEARNING, AND COLLUSION, Journal of Competition Law & Economics, Volume 14, Issue 4, 2018, Pages 568–607](https://doi.org/10.1093/joclec/nhz004)
 
+# Macroeconomic Impact of Artificial Intelligence on the Labor Market
 
+[Kudoh, Noritaka & Miyamoto, Hiroaki, 2025. "Robots, AI, and unemployment," Journal of Economic Dynamics and Control, Elsevier, vol. 174(C).](https://doi.org/10.1016/j.jedc.2025.105069)
+
+# Monetary Economics
+
+[Golosov, M. & Tsyvinski, A. & Werquin, N., 2016. "Recursive Contracts and Endogenously Incomplete Markets," Handbook of Macroeconomics, in: J. B. Taylor & Harald Uhlig (ed.), Handbook of Macroeconomics, edition 1, volume 2, chapter 0, pages 725-841, Elsevier.](https://doi.org/10.1016/bs.hesmac.2016.03.007)
+
+[Gertler, Mark, Kiyotaki, N. and Prestipino, A., (2016), Wholesale Banking and Bank Runs in Macroeconomic Modeling of Financial Crises, ch. Chapter 16, p. 1345-1425, Elsevier](https://doi.org/10.1016/bs.hesmac.2016.03.009)
+
+[Brunnermeier, M.K. & Sannikov, Y., 2016. "Macro, Money, and Finance," Handbook of Macroeconomics, in: J. B. Taylor & Harald Uhlig (ed.), Handbook of Macroeconomics, edition 1, volume 2, chapter 0, pages 1497-1545, Elsevier.](https://doi.org/10.1016/bs.hesmac.2016.06.002)
+
+[Diamond, D.W. and Kashyap, Anil, (2016), Liquidity Requirements, Liquidity Choice, and Financial Stability, ch. Chapter 29, p. 2263-2303, Elsevier](https://doi.org/10.1016/bs.hesmac.2016.03.011)
+
+[Angeletos, George-Marios and Lian, C., (2016), Incomplete Information in Macroeconomics, ch. Chapter 14, p. 1065-1240, Elsevier](https://doi.org/10.1016/bs.hesmac.2016.04.011)
