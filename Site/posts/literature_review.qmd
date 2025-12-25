@@ -15,6 +15,44 @@ categories: ["literature"]
 
 [Danielsson, J., & Uthemann, A. (2025). Artificial intelligence and financial crises. Journal of Financial Stability, 101453.](https://www.sciencedirect.com/science/article/pii/S1572308925000828)
 
+[International Monetary Fund. Monetary and Capital Markets Department. "Chapter 3: Advances in Artificial Intelligence: Implications for Capital Market Activities". In Global Financial Stability Report, October 2024, (USA: International Monetary Fund, 2024) accessed Dec 25, 2025](https://doi.org/10.5089/9798400277573.082.CH003)
+
+[Shihao Gu, Bryan Kelly, Dacheng Xiu, Empirical Asset Pricing via Machine Learning, The Review of Financial Studies, Volume 33, Issue 5, May 2020, Pages 2223–2273](https://doi.org/10.1093/rfs/hhaa009)
+
+[Bagnara, M. (2024). Asset Pricing and Machine Learning: A critical review. Journal of Economic Surveys, 38, 27–56.](https://doi.org/10.1111/joes.12532)
+
+[Sánchez Serrano, Antonio. "High-Frequency Trading and Systemic Risk: A Structured Review of Findings and Policies" Review of Economics, vol. 71, no. 3, 2020, pp. 169-195.](https://doi.org/10.1515/roe-2020-0028)
+
+A rapidly growing literature studies how artificial intelligence (AI) and machine learning (ML) reshape financial markets by altering the information environment, trading technology, and the strategic interaction among market participants. The emerging consensus is not that AI uniformly improves market outcomes, but rather that it changes the mapping from signals to actions in ways that can amplify coordination, compress reaction times, and concentrate exposures—features that are central to modern accounts of market fragility.
+
+**AI, common models, and the “monoculture” channel**
+
+One prominent line of work emphasizes that AI adoption may increase systemic risk by fostering a monoculture in decision-making. When many institutions rely on similar datasets, feature engineering, and learning pipelines, their forecasts and trading rules become correlated even in the absence of explicit coordination. In equilibrium, such correlation can manifest as crowding into similar positions, procyclical de-risking, and synchronized liquidity demand. This mechanism is conceptually distinct from the classic “information revelation” effect of improved signals: even if AI improves predictive accuracy at the individual level, a market populated by similarly trained agents may become more brittle because the cross-sectional diversity of strategies shrinks.
+
+This perspective connects naturally to long-standing concerns about model risk and correlated trading, but the AI setting adds two novel ingredients. First, AI systems can extract similar latent factors from high-dimensional data, making similarity of behavior an endogenous outcome of optimization rather than a mere institutional coincidence. Second, AI deployment can scale quickly across firms through vendor models, shared cloud infrastructure, and standardized toolchains, accelerating the diffusion of correlated strategies. Policy-oriented reports by international institutions and central banks have therefore increasingly framed AI risk not merely as “better prediction,” but as a potential source of common exposures and synchronized responses.
+
+**Strategic complementarities and AI-driven coordination**
+
+A second, more structural strand studies AI through the lens of strategic complementarities and coordination in markets. In many canonical environments—beauty-contest problems, global games, and models of runs or liquidity spirals—agents care not only about fundamentals but also about the actions of others. AI can strengthen such complementarities by sharpening beliefs about aggregate behavior, increasing the responsiveness of trading rules to high-frequency signals, and enabling rapid inference about others’ positions. In these settings, improved prediction of others’ behavior may move the economy closer to knife-edge regions where small shocks precipitate discontinuous regime shifts (runs, crashes, fire-sales).
+
+Recent theoretical contributions formalize the idea that “AI coordination” may increase the likelihood of self-fulfilling crises. The key object is not simply forecasting accuracy, but the elasticity of actions with respect to higher-order beliefs. When AI systems are trained to exploit market microstructure and to infer the crowd’s next move, they effectively raise the sensitivity of portfolios to anticipated aggregate order flow. This aligns with the broader market-design insight that faster and more precise inference about others can increase endogenous volatility when actions are strategic substitutes in normal times but become strategic complements under stress.
+
+**Algorithmic and high-frequency trading as the technological antecedent**
+
+The debate over AI and systemic fragility also inherits lessons from the earlier literature on algorithmic trading and high-frequency trading (HFT). That body of work documents a nuanced pattern: automation can improve liquidity provision and price discovery in tranquil periods, while contributing to instability in stressed states when liquidity becomes endogenous and withdrawal is synchronized. The AI era may be viewed as an extension of this trajectory, where the relevant margin is no longer just execution speed, but the automation of decision-making itself—including signal processing, portfolio rebalancing, and risk controls. Importantly, the HFT literature highlights how the same technology can generate “good” outcomes in normal times yet amplify tail events through correlated behavior, feedback loops, and endogenous liquidity dry-ups—mechanisms that are directly portable to AI-based investing.
+
+**Collusion without intent: learning dynamics across algorithms**
+
+A related set of contributions investigates how multiple learning algorithms interacting in the same market can produce outcomes resembling tacit coordination—even when designers do not program collusive intent. Because reinforcement learning agents optimize against an environment populated by other adaptive agents, the joint dynamics can converge to patterns that soften competition, reduce liquidity, or sustain price distortions. This literature is particularly relevant for markets where a small number of large intermediaries dominate flow and where AI systems adapt to each other repeatedly. It suggests that the welfare consequences of AI cannot be inferred from single-agent performance improvements alone; they depend on the fixed point of a multi-agent learning system.
+
+**Where this project fits: decision lags as a stabilizing friction**
+
+While existing work highlights that AI can intensify strategic complementarities and accelerate feedback loops, a key margin remains underexplored: the role of decision lags and implementation frictions in moderating AI-driven coordination. In practice, many institutions embed AI outputs inside governance structures—human oversight, risk committees, trade approval workflows, and execution constraints—that introduce delays between signal arrival and portfolio adjustment. These lags are often viewed as operational imperfections. Yet from a general-equilibrium perspective they may act as stabilizing frictions by dampening the very complementarities that make AI-induced coordination dangerous.
+
+This project contributes by treating the “speed of decision” not as an exogenous institutional detail but as a parameter that shapes equilibrium stability. The guiding hypothesis is that innovation in information processing (AI) increases the strength of strategic complementarities—through higher responsiveness to shared signals and tighter inference about others—whereas decision lags weaken those complementarities by desynchronizing adjustments across agents. In a dynamic setting, delayed reactions can break the amplification channel whereby agents rapidly condition on inferred aggregate behavior, potentially expanding the region of local stability and reducing the incidence of self-fulfilling crashes. By clarifying when delays are welfare-improving (as coordination dampeners) versus welfare-reducing (as sluggish adaptation to fundamentals), the analysis also speaks to current policy debates on “human-in-the-loop” requirements and guardrails for AI deployment in market-facing activities.
+
+*The above discussion was written by ChatGPT.*
+
 
 # The impact of artificial intelligence on markets
 
@@ -41,3 +79,69 @@ categories: ["literature"]
 [Diamond, D.W. and Kashyap, Anil, (2016), Liquidity Requirements, Liquidity Choice, and Financial Stability, ch. Chapter 29, p. 2263-2303, Elsevier](https://doi.org/10.1016/bs.hesmac.2016.03.011)
 
 [Angeletos, George-Marios and Lian, C., (2016), Incomplete Information in Macroeconomics, ch. Chapter 14, p. 1065-1240, Elsevier](https://doi.org/10.1016/bs.hesmac.2016.04.011)
+
+# the consequences of technological progress in financial markets
+
+> "Some of my research has investigated the consequences of technological progress in financial markets, which allows investment to be directed toward the most profitable production opportunities in the economy, thereby increasing income and productivity. Recently I have explored how efficiency in both financial and patent markets affect technology adoption and growth. For example, how does the efficiency of financial markets affect funding for the development of advanced technologies? Path-breaking technologies may be expensive to develop and involve long and risky gestation lags. These factors make bank financing unsuitable for startups developing path-breaking technologies. Does the rise of venture capital spur the development of new technologies by startups? Inventors often create ideas that they themselves cannot commericalize. Firms may hatch ideas that are far outside of their core lines of business and hence are hard to take to market. Are firms and inventors more likely to develop new ideas when they can patent and sell them?"
+> From [Jeremy Greenwood's website](https://jeremygreenwood.net/Bio.htm)
+
+[Yoshiki Ando, Emin Dinlersoz, Jeremy Greenwood and Ruben Piazzesi (2025), "Technifying Ventures."](https://www.nber.org/papers/w33993)
+
+[Jeremy Greenwood, Pengfei Han and Juan M. Sanchez (2022), "Financing Ventures," International Economic Review, v. 63, n. 3: 1021-1053.](https://doi.org/10.1111/iere.12561)
+
+[Ufuk Akcigit, Emin Dinlersoz, Jeremy Greenwood and Veronika Penciakova (2022), "Synergizing Ventures," Journal of Economic Dynamics and Control, v. 143, October: 104427.](https://doi.org/10.1016/j.jedc.2022.104427)
+
+[Ufuk Akcigit, Murat Alp Celik and Jeremy Greenwood (May 2016), "Buy, Keep or Sell: Economic Growth and the Market for Ideas," Econometrica, v. 84, n. 3: 943-984.](https://doi.org/10.3982/ECTA12144)
+
+[Jeremy Greenwood, Juan M. Sanchez and Cheng Wang (January 2013), "Quantifying the Impact of Financial Development on Economic Development," Review of Economic Dynamics. (Special issue on "Misallocation and Productivity," edited by Diego Restuccia and Richard Rogerson.) v. 16, n. 1: 194-215.](https://doi.org/10.1016/j.red.2012.07.003)
+
+[Jeremy Greenwood and Karen A. Kopecky (January 2013), "Measuring the Welfare Gain from Personal Computers," Economic Inquiry, v. 51, n. 1: 336-347.](https://doi.org/10.1111/j.1465-7295.2011.00447.x)
+
+[Jeremy Greenwood, Juan M. Sanchez and Cheng Wang (September 2010), "Financing Development: The Role of Information Costs," American Economic Review, v. 100, n. 4: 1875-1891.](https://www.jstor.org/stable/27871279)
+
+[Jeremy Greenwood and Boyan Jovanovic (May 1999), "The IT Revolution and the Stock Market," American Economic Review (Papers and Proceedings) v. 89, n. 2: 116-122.](https://www.aeaweb.org/articles?id=10.1257/aer.89.2.116)
+
+[Hobijn, B., & Jovanovic, B. (2001). The Information-Technology Revolution and the Stock Market: Evidence. The American Economic Review, 91(5), 1203–1220.](http://www.jstor.org/stable/2677922)
+
+[Laitner, J., & Stolyarov, D. (2003). Technological Change and the Stock Market. The American Economic Review, 93(4), 1240–1267.](http://www.jstor.org/stable/3132287)
+
+[Peralta-Alva, A. (2007). The Information Technology Revolution and the Puzzling Trends in Tobin’s Average q. International Economic Review, 48(3), 929–951.](http://www.jstor.org/stable/4541996)
+
+[Jovanovic, B., & Rousseau, P. L. (2003). Two Technological Revolutions. Journal of the European Economic Association, 1(2/3), 419–428.](http://www.jstor.org/stable/40005191)
+
+[Pástor, Ľ., & Veronesi, P. (2009). Technological Revolutions and Stock Prices. The American Economic Review, 99(4), 1451–1483.](http://www.jstor.org/stable/25592515)
+
+[Hall, R. E. (2001). The Stock Market and Capital Accumulation. The American Economic Review, 91(5), 1185–1202.](http://www.jstor.org/stable/2677921)
+
+[Brainard, W. C., Shoven, J. B., Weiss, L., Cagan, P., & Hall, R. E. (1980). The Financial Valuation of the Return to Capital. Brookings Papers on Economic Activity, 1980(2), 453–511.](https://doi.org/10.2307/2534328)
+
+[McGrattan, E. R., & Prescott, E. C. (2004). The 1929 Stock Market: Irving Fisher Was Right. International Economic Review, 45(4), 991–1009.](http://www.jstor.org/stable/3663617)
+
+[Jeremy Greenwood and Bruce D. Smith (January 1997), "Financial Markets in Development, and the Development of Financial Markets," Journal of Economic Dynamics and Control, v. 21, no. 1: 145-181..](https://doi.org/10.1016/0165-1889(95)00928-0)
+
+Angeletos, G.-M., & La’O, J. (2013). Sentiments. Econometrica, 81(2), 739–779.
+https://doi.org/10.3982/ECTA10102
+
+Brunnermeier, M. K. (2024). Resilience: A Macroeconomic Framework for Stability and Sustainability. Princeton University Press.
+
+Brynjolfsson, E., Li, D., & Raymond, L. (2023). Generative AI at Work. NBER Working Paper No. 31161.
+https://doi.org/10.3386/w31161
+
+Cooper, R., & John, A. (1988). Coordinating Coordination Failures in Keynesian Models. Quarterly Journal of Economics, 103(3), 441–463.
+https://doi.org/10.2307/1885539
+
+Farmer, J. D., Patelli, P., & Zovko, I. I. (2005). The Predictive Power of Zero Intelligence in Financial Markets. Proceedings of the National Academy of Sciences, 102(6), 2254–2259.
+https://doi.org/10.1073/pnas.0409157102
+
+He, Z., & Krishnamurthy, A. (2012). A Model of Capital and Crises. Review of Economic Studies, 79(2), 735–777.
+https://doi.org/10.1093/restud/rdr043
+
+Morris, S., & Shin, H. S. (2002). Social Value of Public Information. American Economic Review, 92(5), 1521–1534.
+https://doi.org/10.1257/000282802762024610
+
+Sannikov, Y. (2008). A Continuous-Time Version of the Principal–Agent Problem. Review of Economic Studies, 75(3), 957–984.
+https://doi.org/10.1111/j.1467-937X.2008.00493.x
+
+Sannikov, Y. (2013). Dynamic Security Design and Corporate Financing. American Economic Review, 103(2), 418–448.
+https://doi.org/10.1257/aer.103.2.418
+
